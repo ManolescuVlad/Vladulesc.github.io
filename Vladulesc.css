@@ -1,0 +1,43 @@
+	.Marshmello{color:blue;
+				text-align:center;
+				outline-style:ridge;
+				outline-color:blue;
+				outline-width:15px;
+				outline-offset:1px;
+				margin-left:250px;
+				margin-right:250px
+				}
+	
+	body{background-color:lime;
+		}
+		
+	#Marshmello{color:blue;
+				}
+				
+				
+	#Muzica{position:fixed;
+			right:0px;
+			bottom:0px;
+			outline-style:ridge;
+			outline-color:blue;
+			outline-width:15px;
+			outline-offset:-5px;
+			height:40px;
+			}	
+	#Imagine{position:fixed;
+			bottom:0px;
+			width:100;
+			height:100px;
+			}
+			
+			
+	#Joytime{position:fixed;
+			bottom:0px;
+			left:0px;
+			right:0px;
+			text-align:center;
+			border:1px solid black;
+			border-bottom-style:none;
+			border-top-style:none;
+			color:magenta;
+			}
